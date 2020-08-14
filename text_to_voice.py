@@ -1,4 +1,4 @@
-from gtts import gTTS #pip3 install gTTS using COmmand Prompt
+from gtts import gTTS #pip3 install gTTS using Cmmand Prompt
 import os
 text=input("Enter your text: ")
 language='en'
